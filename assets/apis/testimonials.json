@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Babylyn Conti",
+        "comment": "After experiencing the magic of Voyager's Paradise, I found a new dream—to retire and start a fresh chapter in beautiful Australia.",
+        "image": "./assets/images/BabylynConti.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Peng Mendoza",
+        "comment": "Voyager's Paradise is my go-to for travel inspiration. Their stunning photos and engaging stories from places across Europe always spark my wanderlust.",
+        "image": "./assets/images/PengMendoza.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jie Pambid",
+        "comment": "Booking my dream vacation to Europe and Japan was a breeze with Voyager's Paradise! Their detailed recommendations on architecture made our trip truly unforgettable. Exploring iconic landmarks and artwork felt especially meaningful to me as an interior designer and architect—it beautifully connected my passion with the places we visited.",
+        "image": "./assets/images/JiePambid.jpg"
+    }
+]

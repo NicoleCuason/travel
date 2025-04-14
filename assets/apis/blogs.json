@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Spring in Osaka: Uncovering the beauty of nature and the iconic Osaka Castle.",
+        "image": "./assets/images/osaka.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Breathtaking Beauty of Switzerland: Explore the Swiss Alps in Mont Blanc.",
+        "image": "./assets/images/switzerland.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Lovers in Paris: A timeless tale of romance beneath the City of Light. ",
+        "image": "./assets/images/france.jpg"
+    }
+]

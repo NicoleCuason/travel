@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Singapore",
+        "desc": "Singapore's famous blend of futuristic architecture and rich cultural heritage.",
+        "image": "./assets/images/singapore.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Norway",
+        "desc": "In Norway, the Northern Lights paint the Arctic sky with stunning, vibrant colors.",
+        "image": "./assets/images/norway.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Philippines",
+        "desc": "Boracay in the Philippines boasts pristine white sands, crystal-clear waters, and a vibrant island atmosphere.",
+        "image": "./assets/images/philippines.jpg"
+    }
+]
